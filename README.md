@@ -1,4 +1,4 @@
-# plugin-for-wordpess EU
+# EU
 WordPress plugin for course management with user registration, application forms, and admin dashboard. Includes customizable sliders, payment options, and feedback system. Perfect for educational websites needing structured course enrollment and content display. 
 LearnFlow Admin - WordPress Course Management Plugin
 https://img.shields.io/badge/WordPress-5.0+-blue.svg
