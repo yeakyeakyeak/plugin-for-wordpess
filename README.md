@@ -1,4 +1,4 @@
-LearnFlow Admin + Form Builder WordPress Plugin
+# LearnFlow Admin + Form Builder WordPress Plugin
 A powerful, all-in-one WordPress plugin for creating custom forms, managing course applications, and handling dynamic form submissions with ease.
 
 🚀 Features
